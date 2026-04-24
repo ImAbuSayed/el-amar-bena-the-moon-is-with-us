@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل إشهد على ناري
+> طيفك يعانق روحي في أسفاري
+> شوقي إليك كنهر بلا نهاية
+> حبك في قلبي أجمل حكاية
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
